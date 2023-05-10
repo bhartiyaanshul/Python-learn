@@ -9,4 +9,4 @@ elif timelab2 >= 12 and timelab2 < 17:
 elif timelab2 >= 17 and timelab2 <20:
     print("Good Evening Sir...")
 else :
-    print("Good Night Sir")
+    print("Good Night Sir...")
