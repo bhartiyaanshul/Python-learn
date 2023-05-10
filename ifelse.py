@@ -4,4 +4,4 @@ if(a==1):
 elif(a==2):
     print("In your budget of 80 you can buy good quality of apple..")
 else:
-    print("In your budget of 100 you can buy medium quality of apple..")
+    print("In your budget of 100 you can buy medium quality of apple...")
