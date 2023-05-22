@@ -1,7 +1,10 @@
 class car:
-    speed = 0
-    color = ""
-    type= ""
+    
+    def __init__(self):
+        self.speed = 0
+        self.color = ""
+        self.type= ""
+        
     def car_speed(self):
         self.speed = input("Enter a Car Speed: ")
         return self.speed
